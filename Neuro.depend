@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1442643957 source:/home/thielo/Desktop/backprop/Neuro/backprop.cpp
+	"layer.h"
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<cmath>
+
+1442644684 /home/thielo/Desktop/backprop/Neuro/layer.h
+	<cstdio>
+	<cstdlib>
+
+1442644085 source:/home/thielo/Desktop/backprop/Neuro/layer.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"layer.h"
+
+1442643956 source:c:\users\claudio\documents\machine learning\neuro\backprop.cpp
+	"layer.h"
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<cmath>
+
+1442644684 c:\users\claudio\documents\machine learning\neuro\layer.h
+	<cstdio>
+	<cstdlib>
+
+1442644084 source:c:\users\claudio\documents\machine learning\neuro\layer.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"layer.h"
+
+1442643788 source:c:\users\claudio\documents\machine learning\neuro\main.cpp
+	<iostream>
+
